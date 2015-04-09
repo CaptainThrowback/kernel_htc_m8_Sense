@@ -1,5 +1,5 @@
 # Kernel version
-CONFIG_LOCALVERSION="-BeyondStockᵀᴹ-M8-Sense-3.2.0"
+CONFIG_LOCALVERSION="-BeyondStockᵀᴹ-M8-Sense-3.2.1"
 # CONFIG_LOCALVERSION_AUTO is not set
 
 # kexec-hardboot for MultiROM support
